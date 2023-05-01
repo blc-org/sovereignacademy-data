@@ -1,7 +1,0 @@
-- name: Base Layer
-- name: Lightning
-  description: "Lightning Network is a second layer protocol built on top of Bitcoin that allows for instant, cheap payments."
-- name: Economy
-- name: Finance
-- name: Privacy
-- name: Mining
