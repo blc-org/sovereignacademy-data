@@ -1,0 +1,9 @@
+name: Blockstream
+links:
+  website: https://blockstream.com/
+  twitter: https://twitter.com/blockstream
+  github: https://github.com/Blockstream
+tags:
+  - Bitcoin-only
+contributors:
+  - dry-harmony
