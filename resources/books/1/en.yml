@@ -1,11 +1,13 @@
 title: "The Bitcoin Standard: The Decentralized Alternative to Central Banking"
-author: "Saifedean Ammous"
-publication_date: "2018-06-08"
-description: "A comprehensive and authoritative exploration of Bitcoin and its place in monetary history"
-cover: "cover.webp"
+publication_date: 2018
+description: |
+  A comprehensive and authoritative exploration of Bitcoin and its place in monetary history
+cover: cover.webp
 summary:
   by: dry-harmony
-  text: "The Bitcoin Standard is a must-read for anyone interested in Bitcoin and monetary history. It is a book that is well worth reading by all."
+  text: |
+    The Bitcoin Standard is a must-read for anyone interested in Bitcoin and monetary history. It is a book that is well worth reading by all.
+original: true
 contributors:
   - dry-harmony
   - small-radar
