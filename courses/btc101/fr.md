@@ -1,24 +1,26 @@
 ---
 name: Le parcours Bitcoin
 goal: Découvrir Bitcoin et ses fondamentaux avec sa proposition de valeur monétaire, les mineurs, les transactions et portefeuilles.
-description: |
-  # Votre première aventure Bitcoin
+---
 
-  Dans cette formation, je vais vous expliquer Bitcoin en 21 chapitres afin que vous puissiez comprendre cette technologie de manière simple et efficace.  La formation est accessible pour tous et explore l’industrie dans son ensemble: mineurs, portefeuille, plateforme d’achat/vente, etc…
+# Votre première aventure Bitcoin
 
-  La formation devrait prendre environ 15 heures avec un examen final à la fin. Durant tout le parcours, des posters explicatifs tirés de mon livre sont disponibles ainsi que des ressources supplémentaires, des interviews d’experts ou encore des vidéos FAQ.
+Dans cette formation, je vais vous expliquer Bitcoin en 21 chapitres afin que vous puissiez comprendre cette technologie de manière simple et efficace. La formation est accessible pour tous et explore l’industrie dans son ensemble: mineurs, portefeuille, plateforme d’achat/vente, etc…
 
-  ## Qu’allez-vous apprendre durant ce cours ?
+La formation devrait prendre environ 15 heures avec un examen final à la fin. Durant tout le parcours, des posters explicatifs tirés de mon livre sont disponibles ainsi que des ressources supplémentaires, des interviews d’experts ou encore des vidéos FAQ.
 
-  - Avoir une compréhension générale de la technologie Bitcoin
-  - Comprendre comment acheter et sécuriser ses bitcoins
-  - Avoir une compréhension générale de la technologie Blockchain
-  - Etre familiarisé avec le concept du Litghning Network
-  - Réaliser l’impact géopolitique et social que représente Bitcoin
+## Qu’allez-vous apprendre durant ce cours ?
 
-  Vous ressortirez de cette formation en ayant toutes les connaissances nécessaires pour attaquer la suite !
+- Avoir une compréhension générale de la technologie Bitcoin
+- Comprendre comment acheter et sécuriser ses bitcoins
+- Avoir une compréhension générale de la technologie Blockchain
+- Etre familiarisé avec le concept du Litghning Network
+- Réaliser l’impact géopolitique et social que représente Bitcoin
 
-  Pas convaincu ? Tu peux regarder le curriculum complet ici: [BTC 101 - Curriculum](https://academie.decouvrebitcoin.fr/wp-content/uploads/2022/07/BTC-101-Curriculum.pdf)
+Vous ressortirez de cette formation en ayant toutes les connaissances nécessaires pour attaquer la suite !
+
+Pas convaincu ? Tu peux regarder le curriculum complet ici: [BTC 101 - Curriculum](https://academie.decouvrebitcoin.fr/wp-content/uploads/2022/07/BTC-101-Curriculum.pdf)
+
 ---
 
 # Introduction : la formation parcours Bitcoin
